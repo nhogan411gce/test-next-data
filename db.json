@@ -4,7 +4,7 @@
   		"id": "degree-programs",
   		"pageTitle": "Degree Programs",
   		"slug": "/degree-programs",
-  		"published": false,
+  		"published": true,
   		"rows": [
   			{
   				"type": "widget_entity--Heading",
