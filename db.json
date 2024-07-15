@@ -6,39 +6,82 @@
   		"slug": "/degree-programs",
   		"published": true,
   		"rows": [
-      	{
-      		"type": "widget_entity--CourseList"
-      	},
-      	{
-      		"type": "widget_entity--Hero",
-      		"rmi_form_config_id": "cro17059",
-      		"image": {
-      			"alt": "Masters Degree in Special Ed"
-      		}
-      	},
-      	{
-      		"type": "widget_entity--TwoColSectionTitleHeadingImageText",
-      		"variant": "70-30--titles-inside--image-right",
-      		"section": {
-      			"text": "Overview",
-      			"scrollId": 1
-      		},
-      		"heading": {
-      			"text": "Prepare to Teach Students With Exceptionalities",
-      			"tag": "h2",
-      			"variant": "h2"
-      		},
-      		"image": {
-      			"alt": "Prepare to Teach Students With Exceptionalities"
-      		}
-      	}
-      ]
+				{
+					"type": "widget_entity--Heading",
+					"text": "Why Earn Your RN to BSN Online at GCU?",
+					"tag": "h2",
+					"variant": "h2"
+				},
+				{
+					"type": "widget_entity--SectionHeading",
+					"text": "Accreditation",
+					"scrollId": 0
+				},
+				{
+					"type": "widget_entity--Button",
+					"variant": "primary",
+					"label": "Button Primary",
+					"href": "#"
+				},
+			
+				{
+					"type": "widget_entity--Button",
+					"variant": "secondary",
+					"label": "Button Secondary",
+					"href": "#"
+				},
+			
+				{
+					"type": "widget_entity--Button",
+					"variant": "cta",
+					"label": "Button CTA (Tertiary)",
+					"href": "#"
+				},
+				{
+					"type": "widget_entity--Card",
+					"title": "Prepare to Lead in Today's Healthcare Field",
+					"body": "American Association of Colleges of Nursing have found nurses with a BSN degree are well-prepared to meet today's healthcare demands. BSN nurses are also prized by many entities for their skills in critical thinking, leadership and case management and for their ability to practice across a variety of inpatient and outpatient settings.<sup>5</sup>",
+					"variant": "Secondary Extra Light"
+				},
+				{
+					"type": "widget_entity--TwoColSectionTitleHeadingImageText",
+					"variant": "70-30--titles-above--image-right",
+					"section": {
+						"text": "Overview",
+						"scrollId": 1
+					},
+					"heading": {
+						"text": "Preparing You for the Future in Nursing",
+						"tag": "h2",
+						"variant": "h2"
+					},
+					"text": "<p>Obtaining your Bachelor of Science in Nursing can position you to broaden your understanding of best practices in nursing, prepare you for graduate study and equip you for leadership positions in which increasing levels of education are expected.<br /><br />GCU's RN to BSN program is tailored to meet the needs of the RN adult learner and to maximize the strengths that the working RN already possesses. Our university counselors provide an upfront time to completion, as long as you follow the schedule provided, and our <a href='https://www.gcu.edu/tuition-and-financial-aid#h-cost-estimator-tools-and-resources'>net price calculator tools</a> can provide you with a general estimation of the cost of attendance.</p>",
+					"image": {
+						"src": "https://placehold.co/800x700?text=This+Image+Looks+Like+The+Placeholder+But+Is+Actually+Overwriting+It",
+						"alt": ""
+					}
+				},
+				{
+					"type": "widget_entity--TwoColumnsHeadingImageText",
+					"variant": "30-70--heading-inside--image-left",
+					"heading": {
+						"text": "Advance in Healthcare",
+						"tag": "h2",
+						"variant": "h2"
+					},
+					"text": "<p class='mb-0 text-lg'>If you're looking to position yourself for possible advancement in the healthcare field by earning a Bachelor of Science in Nursing degree, fill out the form on this page to get in contact with a university counselor.</p>",
+					"image": {
+						"src": "https://placehold.co/800x700?text=This+One+Is+Also+Different",
+						"alt": ""
+					}
+				}
+			]
   	},
   	{
   		"id": "test",
-  		"pageTitle": "Robert Krise, MDiv",
-  		"slug": "/blog/author/robert-krise-mdiv",
-  		"published": false,
+  		"pageTitle": "Test Data",
+  		"slug": "/test",
+  		"published": true,
   		"rows": [
   			{
   				"type": "widget_entity--Heading",
