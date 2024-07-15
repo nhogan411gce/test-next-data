@@ -1,7 +1,7 @@
 {
   "pages": [
   	{
-  		"id": 1,
+  		"id": "degree-programs",
   		"pageTitle": "Degree Programs",
   		"slug": "/degree-programs",
   		"published": true,
